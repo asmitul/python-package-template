@@ -1,3 +1,5 @@
+# 📄 License
+
 MIT License
 
 Copyright (c) 2023-present REPLACE_FULL_NAME <REPLACE_EMAIL>
