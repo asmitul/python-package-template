@@ -13,7 +13,8 @@
 
 ## 🚚 Replacements
 
-* `REPLACE_PACKAGE_NAME`: name of the package (usually the same name as the repository in which it's hosted).
+* `REPLACE_PACKAGE_NAME`: name of the package (usually the same name as the repository). like XXX_PROJECT
+* `REPLACE_REPO_NAME`: github repo name. like XXX-PROJECT
 * `REPLACE_PACKAGE_DESCRIPTION`: description of the package.
 * `REPLACE_FULL_NAME`: user's full name.
 * `REPLACE_EMAIL`: user's email.
